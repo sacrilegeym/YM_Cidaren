@@ -1,0 +1,24 @@
+# 用户数据（绝对不要提交）
+token.txt
+*.token
+config/question_memory.json
+config/answer_lib.json.bak_*
+log/
+logs/
+*.log
+
+# 构建产物
+dist*/
+build/
+release/
+*.spec.bak
+__pycache__/
+*.pyc
+.venv/
+env/
+.idea/
+.vscode/
+
+# 系统
+desktop.ini
+Thumbs.db
